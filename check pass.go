@@ -39,6 +39,6 @@ func main() {
 			}
 		}
 	} else {
-		fmt.Print("Wrong password")
+		fmt.Print("Wrong password1")
 	}
 }
